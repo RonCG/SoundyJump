@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\Ron\Portfolio\Soundyjump\SoundyJump\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Ron\Portfolio\Soundyjump\SoundyJump\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
